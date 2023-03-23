@@ -5,7 +5,7 @@ tags:
   - intro
 ---
 
-# Hola
+# viaje a lanzarote
 ## Hola2
 ### Hola3
 Hola
